@@ -1,5 +1,0 @@
-create database MyDatabase;
-
-select * from course;
-select * from student;
-select * from student_course;
